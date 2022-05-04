@@ -8,7 +8,8 @@ The Book search engine is an application is leveraging the entire MERN stack and
 
 ## Deployed Application 
 
-[Book Search Engine](https://git.heroku.com/dry-plains-30820.git)
+[Book Search Engine](https://dry-plains-30820.herokuapp.com/)
+
 
 ## Usage
 
